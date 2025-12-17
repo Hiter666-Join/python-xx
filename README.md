@@ -12,7 +12,7 @@ $$\begin{bmatrix}
 {a_{m1}}&{a_{m2}}&{\cdots}&{a_{mn}}\\
 \end{bmatrix}$$
 
-### 和
+## 这是一个矩阵和阵列
 
 $$\begin{array}{c|lll}
 {↓}&{a}&{b}&{c}\\
