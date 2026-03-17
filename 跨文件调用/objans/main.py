@@ -1,4 +1,3 @@
-
 print("mian say hello")
 
 def say_bye():

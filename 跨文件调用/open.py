@@ -1,4 +1,3 @@
-
 import main2    #调用main2.py
 from objans import *    #import objans会调用目录下的__init__.py
 
